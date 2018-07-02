@@ -1,6 +1,6 @@
 # Journal-App
 This project allows its users to pin down their thoughts and feelings at any given moment. 
-It was developed to store data into Google's online database, Firebase Realtime Database to keep users' information for as long as they wish to. Every note can be recovered unless deleted, even when you lose your cellphone.
+It was developed to store data into Google's online database, Firebase Realtime Database to keep users' information for as long as they wish to. Every note can be recovered even when you lose your cellphone, unless you delete it manually.
 
 # Basic Installation Instructions:
   Clone JournalApp.7Zip
